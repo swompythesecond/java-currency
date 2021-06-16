@@ -1,0 +1,6 @@
+Chinese Yuan: 6.4097
+Euro: 0.8166
+Japanese Yen: 108.92622727
+U.K. Pound Sterling: 0.707548
+U.S. Dollar: 1
+Algerian Dinar: 133.17
